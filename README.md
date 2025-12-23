@@ -31,4 +31,4 @@ Flip the cards, find matching pairs, and test your memory skills.
 
 ## Demo Video
 
-https://github.com/Romisha08/Memory-Card-Game/assets/demo.mp4
+https://github.com/user-attachments/assets/88bb702d-b0b9-499a-b400-271bb025ecfb
